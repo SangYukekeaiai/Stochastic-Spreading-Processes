@@ -1,0 +1,4 @@
+# The Optimization of Markov algorithms for Stochastic Spreading Processes
+## Intro
+
+Nowadays Stochastic processes perform a very important role in our daily life, especially in some emerging phenomena on networks, like the rumors Spreading on Internet, the infectious diseases. It is necessary for us to learn the dynamics of such stochastic processes. In this work we are trying to re-implement a new algorithm based on wide-spread compartment model where each node is in one of several states. Nodes change their states randomly after an exponentially distributed time and according to a given set of rules. Here, a new simulation is proposed which is combined with the advantages of event-Based simulation and reject sampling. This method performs better in absolute CPU time per step and the change of scales , while the model is statistically equivalent.
